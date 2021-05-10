@@ -1,5 +1,5 @@
 # Git-Star
-Mass Git Starred Link Grabber: It grabs git starred repo links and ouput it in star.txt file.
+Mass Git Starred Link Grabber: It grabs git starred repo links and ouput it in a star.txt file.
 
 ## Required
 > JQ
